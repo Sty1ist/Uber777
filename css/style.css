@@ -236,7 +236,7 @@ nav {
   .mobile_item_5 {
     background: url("../img/third container/Feedback.jpg"); }
   .mobile_item_6 {
-    background: url("../img/third container/_to_split.jpg"); }
+    background: url("/img/third\ container/toSplit.jpg"); }
   .mobile_item_subtitle {
     padding-top: 92px;
     font-size: 24px;
