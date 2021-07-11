@@ -1,2 +1,3 @@
 #Git and github text-transform
-Course for Git and github
+---
+> __Course for Git and github__
