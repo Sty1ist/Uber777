@@ -464,7 +464,7 @@ nav {
   -webkit-box-align: start;
   -ms-flex-align: start;
   align-items: flex-start;
-  padding-top: 32px;
+  padding: 32px 10px 0 10px;
 }
 .footer_wrapper > div {
   width: 100%;
